@@ -17,7 +17,7 @@ int main() {
 	int n;
 	std::cin >> n;
 
-	std::map<std::string, std::string> countries/* = { {"RUSSIA", "MOSCOW"}}*/;
+	std::map<std::string, std::string> countries;
 
 	
 
